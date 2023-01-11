@@ -7,7 +7,7 @@ public class FindDuplicates {
 
   public static void main(String[] args) {
     String[] firstArray = new String[]{"Morango", "Uva", "Acerola", "Manga"};
-    String[] secondArray = new String[]{"Morango", "Uva", "Acerola", "Manga"};
+    String[] secondArray = new String[]{"Pêra", "Caju", "Morango", "Kiwi"};
 
     List<String> firstList = Arrays.asList(firstArray);
     List<String> secondList = Arrays.asList(secondArray);
